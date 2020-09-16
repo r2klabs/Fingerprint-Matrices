@@ -1,0 +1,2 @@
+# Analysis of Jane Austen Character Co-occurrences
+This notebook experiments with the concept of fingerprint matrices, a technique for generating an image representing character co-occurrences in novels.
